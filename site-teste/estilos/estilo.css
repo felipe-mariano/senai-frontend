@@ -1,0 +1,63 @@
+li {
+    color:red;
+    width: 500px;
+    border: 1px solid black;
+}
+
+p, li, h1{
+color: black;
+padding: 3px;
+margin: 3px;
+}
+
+#meu-id{
+background-color: black;
+color: white;
+}
+
+.minha-class{
+    background-color:red;
+}
+
+.fundo-vermelho{
+    background-color: red;
+    color: black;
+}
+
+.fundo-vermelho:hover {
+    background-color: black;
+    color: red;
+}
+
+html{
+    font-size: 17px;
+    font-family: "Madimi One", sans-serif;
+    background-color: hsl(0, 21%, 92%);
+}
+
+h1{
+    font-size: 55px;
+    text-align: center;
+    text-shadow: 3px 3px 1px black;
+}
+p, li{
+    font-size: 15px;
+    line-height: 1;
+    letter-spacing: 1px;
+    padding: 3px;
+    margin: 3px;
+       
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: red;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
