@@ -11,7 +11,7 @@ function validarLogin() {
         msg.style = "background-color: blue"
     } else{
         msg.innerText = "Login ou Senha incorretos!!";
-        msg.style = "background-color: gold"
+        msg.style = "background-color: gold";
     }
 
     
